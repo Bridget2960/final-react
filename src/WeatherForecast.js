@@ -48,4 +48,4 @@ export default function WeatherForecast(props) {
 
     return null;
   }
-}
+}"@babel/plugin-proposal-private-property-in-object"

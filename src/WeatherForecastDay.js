@@ -35,4 +35,4 @@ export default function WeatherForecastDay(props) {
       </div>
     </div>
   );
-}
+}"@babel/plugin-proposal-private-property-in-object"

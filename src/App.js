@@ -19,7 +19,7 @@ export default function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/Bridget2960/react-weather-app"
+            href="https://github.com/Bridget2960/final-react"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -27,7 +27,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://suspicious-beaver-111c4d.netlify.com/"
+            href="https://capable-gingersnap-0ed3de.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -38,3 +38,4 @@ export default function App() {
     </div>
   );
 }
+"@babel/plugin-proposal-private-property-in-object"

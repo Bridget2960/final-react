@@ -1,5 +1,5 @@
 .Weather {
-    font-family: arial, sans-serif;
+    font-family: arial;
     border: 1px solid #dadde1;
     padding: 16px;
     border-radius: 4px;
@@ -47,3 +47,4 @@
     line-height: 1;
     top: -34px;
   }
+  "@babel/plugin-proposal-private-property-in-object"

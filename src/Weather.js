@@ -68,4 +68,4 @@ export default function Weather(props) {
     search();
     return "Loading...";
   }
-}
+}"@babel/plugin-proposal-private-property-in-object"

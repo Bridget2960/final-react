@@ -31,4 +31,4 @@ export default function WeatherIcon(props) {
       animate={true}
     />
   );
-}
+}"@babel/plugin-proposal-private-property-in-object"

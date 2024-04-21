@@ -26,3 +26,4 @@ export default function FormattedDate(props) {
     </div>
   );
 }
+"@babel/plugin-proposal-private-property-in-object"
